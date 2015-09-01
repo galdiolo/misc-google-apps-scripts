@@ -13,7 +13,7 @@ This one works pretty well (so far). What it supports:
  * Links
  * Direct tags*
 
-*Direct tags are what I call inline HTML in the Google doc - eg: you can type <img src="links/image.png" alt="Yep" style="float:left;width:45%" /> directly into the Google Doc.
+*Direct tags are what I call inline HTML in the Google doc - eg: you can type `<img src="links/image.png" alt="Yep" style="float:left;width:45%" />` directly into the Google Doc.
 
 What it does not support:
 
